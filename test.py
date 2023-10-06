@@ -1,2 +1,5 @@
 print("This is my first test!")
-print("Patrick")
+
+
+print("Warning")
+print("Danger")
